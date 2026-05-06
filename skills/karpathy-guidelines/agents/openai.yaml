@@ -1,0 +1,4 @@
+interface:
+  display_name: "Karpathy Guidelines"
+  short_description: "Coding guardrails for precise, verified changes."
+  default_prompt: "Use $karpathy-guidelines while writing, reviewing, debugging, or refactoring code."
